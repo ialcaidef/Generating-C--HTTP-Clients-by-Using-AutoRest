@@ -1,0 +1,9 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Solution\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.pdb
